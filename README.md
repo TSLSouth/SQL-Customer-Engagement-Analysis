@@ -1,4 +1,4 @@
-# Project: User Engagement Analysis using SQL
+# Project: SQL Customer Engagement Analysis
 
 <br>
 
